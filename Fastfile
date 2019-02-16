@@ -40,7 +40,7 @@ end
 
 ### Alert
 def on_success  
-   #str_slack_url = "https://hooks.slack.com/services/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"
+   #str_slack_url = "xxxxxx"
    slack(
    message: "App successfully uploaded to iTunesConnect.",
    success: true,
